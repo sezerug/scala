@@ -7,6 +7,9 @@ import two.{Rational, ChecksumAccumulator}
  * Created by usezer on 28.07.2015.
  */
 
+/**
+ *
+ */
 object Main {
 
 
